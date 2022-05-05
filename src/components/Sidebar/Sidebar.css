@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+.sidebar-container{
+    width: 110px;
+    height: 100%;
+    align-items: center;
+    flex-direction: column;
+    display: flex;  
+    justify-content: space-between;
+    background-color:#111111;
+}
+
+.sidebar-btn{
+    margin-top:40%;
+}
+
+.underTxt{
+    color : white;
+}
+
