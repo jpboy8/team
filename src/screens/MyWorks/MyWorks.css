@@ -46,7 +46,7 @@
   
   
   button:hover::before {
-    filter: blur(20px);
+    filter: blur(19px);
   }
   
   button:active {
