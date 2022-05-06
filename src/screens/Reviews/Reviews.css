@@ -17,8 +17,73 @@
     position: absolute;
     width: 1100px;
     height: 200px;
-    left: 400px;
+    left: 530px;
     color: rgb(85, 83, 83);
     font-size:170%;
-    top: 190px;
+    top: 140px;
+}
+.Rev1{
+    position: absolute;
+    height: 485px;
+    width: 275px;
+    background-image: url(Rev1.PNG);
+    top: 280px;
+    left: 170px;
+}
+.Rev2{
+    position: absolute;
+    height: 485px;
+    width: 275px;
+    background-image: url(Rev2.PNG);
+    top: 280px;
+    left: 550px;
+}
+.Rev3{
+    position: absolute;
+    height: 485px;
+    width: 275px;
+    background-image: url(Rev3.PNG);
+    top: 280px;
+    left: 930px;
+}
+.Rev4{
+    position: absolute;
+    height: 485px;
+    width: 275px;
+    background-image: url(Rev4.PNG);
+    top: 280px;
+    left: 1320px;
+}
+.Rev1:hover{
+    transform: scale(125%);
+}
+.Rev2:hover{
+    transform: scale(125%);
+}
+.Rev3:hover{
+    transform: scale(125%);
+}
+.Rev4:hover{
+    transform: scale(125%);
+}
+
+.Whatsapp{
+    position: absolute;
+    width: 200px;
+    height: 70px;
+    top: 850px;
+    left: 550px;
+    background-color: limegreen;
+    color: white;
+    font-size: 150%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Call{
+    position: absolute;
+    width: 200px;
+    height: 70px;
+    top: 850px;
+    left: 925px;
+    font-size: 150%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
